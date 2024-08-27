@@ -24,7 +24,8 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: >-
+        https://res.cloudinary.com/dsi6u0cso/image/upload/v1724720533/cld-sample-2.jpg
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
