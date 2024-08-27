@@ -54,6 +54,12 @@ sections:
         size: large
         variant: outlined
         color: primary
+      - type: Button
+        label: Something else
+        url: /
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       url: /images/hero.svg
