@@ -33,6 +33,31 @@ sections:
       url: >-
         https://res.cloudinary.com/dsi6u0cso/image/upload/v1724720533/cld-sample-2.jpg
       altText: Hero section image
+  - type: HeroSection
+    title: This Is A Big Hero Headline
+    subtitle: The section subtitle
+    text: >-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions:
+      - type: Button
+        label: Start Building
+        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        size: large
+        variant: contained
+        color: primary
+      - type: Button
+        label: Read the Docs
+        url: 'https://docs.netlify.com/visual-editor/overview/'
+        size: large
+        variant: outlined
+        color: primary
+    image:
+      type: Image
+      url: /images/hero.svg
+      altText: Hero section image
   - type: CardsSection
     title: Cards Section Title
     subtitle: The section subtitle
